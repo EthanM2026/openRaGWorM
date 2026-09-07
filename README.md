@@ -1,4 +1,4 @@
-openRaGWorm is a basic Recurrent Generative World Model written in C. It is lightweight enough to run on a ten-year-old CPU.
+openRaGWorM is a basic Recurrent Generative World Model written in C. It is lightweight enough to run on a ten-year-old CPU.
 
 Written originally for Debian Linux.
 
